@@ -1,4 +1,4 @@
 var logoText = "Trishna";
 var siteName = "Trishna";
-var bestLink = "xnxx.com";
+var bestLink = "https://www.facebook.com/abdulmomen120";
 document.title = "Trishna New";
