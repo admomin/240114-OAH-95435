@@ -1,4 +1,4 @@
 var logoText = "Kokila";
 var siteName = "Kokila";
-var bestLink = "https://aff.bdoffers.tech/?utm_medium=1b5996f7937312eb35acf1d80ef3abc6795c8803&utm_campaign=SouthAfrica";
+var bestLink = "https://wizardsdishwater.com/dx72xkj69h?key=990299ddd4422ffae262a0857f159b94";
 document.title = "Kokila New";
