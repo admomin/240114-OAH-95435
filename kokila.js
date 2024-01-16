@@ -1,4 +1,4 @@
 var logoText = "Kokila";
 var siteName = "Kokila";
-var bestLink = "https://wizardsdishwater.com/dx72xkj69h?key=990299ddd4422ffae262a0857f159b94";
+var bestLink = "https://aff.bdoffers.tech/?utm_medium=c6009124365d158bf30078066619a7f34ecd9ea6&utm_campaign=MumA";
 document.title = "Kokila New";
