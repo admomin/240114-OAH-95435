@@ -1,4 +1,4 @@
 var logoText = "Aradha";
 var siteName = "Aradha";
-var bestLink = "https://datesunited.com/tds/ae?tdsId=s0792tok_r&tds_campaign=s0792tok&utm_sub=opnfnl&s1=ps&utm_source=int&affid=17ff4f48&subid=%7BCPADating%7D&clickid=%7Bclickid%7D&subid2=%7Bsubid2%7D";
+var bestLink = "https://wizardsdishwater.com/j89igva0ze?key=67571e617c2d3ee9ee7bb89954eaef89";
 document.title = "Aradha New";
