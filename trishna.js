@@ -1,4 +1,4 @@
 var logoText = "Trishna";
 var siteName = "Trishna";
-var bestLink = "https://wizardsdishwater.com/dx72xkj69h?key=990299ddd4422ffae262a0857f159b94";
+var bestLink = "https://aff.bdoffers.tech/?utm_medium=28f1e77d20da52989a3172ae04174f87443faa21&utm_campaign=Adstra_Here";
 document.title = "Trishna New";
