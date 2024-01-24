@@ -1,4 +1,4 @@
 var logoText = "Tumrina";
 var siteName = "Tumrina";
-var bestLink = "https://wizardsdishwater.com/vs1x112dn0?key=28dcb4c360c99f75c117c61d0a61f495";
+var bestLink = "https://www.toprevenuegate.com/x3yx5dwti?key=0632535624ba92ca00a1fe9e717941a7";
 document.title = "Click Here To Watch";
