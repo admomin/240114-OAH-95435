@@ -7,6 +7,6 @@ var bl3 = "https://aff.bdoffers.tech/?utm_medium=51427b53ebb83465e7590974cff529f
 var ar1 = "https://aff.bdoffers.tech/?utm_medium=79bf229258e8198e9804a81ecbbe773323988fe5&utm_campaign=30MB_RobiAirtel";
 var ar2 = "https://aff.bdoffers.tech/?utm_medium=79bf229258e8198e9804a81ecbbe773323988fe5&utm_campaign=30MB_RobiAirtel";
 var ar3 = "https://aff.bdoffers.tech/?utm_medium=79bf229258e8198e9804a81ecbbe773323988fe5&utm_campaign=30MB_RobiAirtel";
-var r1 = "https://aff.bdoffers.tech/?utm_medium=17dd91b6569d07a10477de1fe52bd5905a464415&utm_campaign=OKBye";
-var r2 = "https://aff.bdoffers.tech/?utm_medium=17dd91b6569d07a10477de1fe52bd5905a464415&utm_campaign=OKBye";
-var r3 = "https://aff.bdoffers.tech/?utm_medium=17dd91b6569d07a10477de1fe52bd5905a464415&utm_campaign=OKBye";
+var r1 = "https://aff.bdoffers.tech/?utm_medium=e86c4f7c180cbd0195c63442a379ad4061d7892a&utm_campaign=MurmurRobi";
+var r2 = "https://aff.bdoffers.tech/?utm_medium=e86c4f7c180cbd0195c63442a379ad4061d7892a&utm_campaign=MurmurRobi";
+var r3 = "https://aff.bdoffers.tech/?utm_medium=e86c4f7c180cbd0195c63442a379ad4061d7892a&utm_campaign=MurmurRobi";
