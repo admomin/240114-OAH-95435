@@ -1,1 +1,1 @@
-var bestLink = "https://aff.bdoffers.tech/?utm_medium=fdabc3dee06695e70a1730130d87eeb47ab94196&utm_campaign=myrobiya";
+var bestLink = "https://aff.bdoffers.tech/?utm_medium=b733a1764fd0ab62294d16f4c9060c29c3175a61&utm_campaign=XCN";
