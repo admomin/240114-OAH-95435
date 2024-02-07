@@ -1,1 +1,1 @@
-var bestLink = "https://aff.bdoffers.tech/?utm_medium=b733a1764fd0ab62294d16f4c9060c29c3175a61&utm_campaign=XCN";
+var bestLink = "https://www.profitablegatecpm.com/dx72xkj69h?key=990299ddd4422ffae262a0857f159b94";
