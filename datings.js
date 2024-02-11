@@ -1,1 +1,1 @@
-var bestLink = "https://www.profitablegatecpm.com/dx72xkj69h?key=990299ddd4422ffae262a0857f159b94";
+var bestLink = "https://aff.bdoffers.tech/?utm_medium=4cc803304549785328e325ed956856621d8f404a&utm_campaign=thailandxx";
