@@ -1,4 +1,4 @@
 var gplink = "https://aff.bdoffers.tech/?utm_medium=2b12959c3c055fc0da04a8e9663f1c0a1bb107df&utm_campaign=mamagp";
-var bllink = "https://aff.bdoffers.tech/?utm_medium=a9547a3a45558a3041b297df48be8df5c172464d&utm_campaign=muminbalx";
-var arlink = "https://aff.bdoffers.tech/?utm_medium=d0e8a4e829c5e272a25b26958968d3be61d35488&utm_campaign=mixedar";
-var rblink = "https://aff.bdoffers.tech/?utm_medium=d0e8a4e829c5e272a25b26958968d3be61d35488&utm_campaign=mixedar";
+var bllink = "https://aff.bdoffers.tech/?utm_medium=a8f3c787e077398bfa01948d11df5ce9ba98772b&utm_campaign=mamabal";
+var arlink = "https://aff.bdoffers.tech/?utm_medium=0a15ce7aff27598a93c7d844e92d21ab6ca9984c&utm_campaign=mamaar";
+var rblink = "https://aff.bdoffers.tech/?utm_medium=0a15ce7aff27598a93c7d844e92d21ab6ca9984c&utm_campaign=mamaar";
