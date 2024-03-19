@@ -1,4 +1,4 @@
-var gplink = "https://flibblix.com/cl/2c7fd720a61ca3ad?p1=&p2=&source=instagram&site=megp";
-var bllink = "https://flibblix.com/cl/679cbb82ef102d05?p1=&p2=&source=Instagram&site=myball";
-var arlink = "https://smrturl.co/o/597804/53385239?s1=v";
-var rblink = "https://flibblix.com/cl/7363e71cc06e9ceb?p1=&p2=&source=Instagram &site=myrobia";
+var gplink = "https://plivexx.com/cl/3f8e706483304a9a?p1=&p2=&source=instagram&site=mygpcsa";
+var bllink = "https://plivexx.com/cl/825edcaefb4f7362?p1=&p2=&source=instagram&site=mybal";
+var arlink = "https://aff.26march.shop/?utm_medium=1ac89f9c9b4f924fa9b119c910acb4809813e234&utm_campaign=myairtelc";
+var rblink = "https://plivexx.com/cl/39062b2cf7ce912d?p1=&p2=&source=instagram&site=allrobi";
